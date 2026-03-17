@@ -24,7 +24,7 @@ O sistema permite buscar endereços, cidades ou pontos turísticos. Ele utiliza 
 
 ## 🔗 Link do Deploy
 Acesse o projeto online aqui: 
-> [COLE AQUI O LINK DO NETLIFY OU VERCEL]
+> [https://coordinatesfinder.netlify.app/]
 
 ---
-Desenvolvido por [SEU NOME] como parte de um desafio de desenvolvimento web.
+Desenvolvido por Ygor Sampaio Esteves como parte de um desafio de desenvolvimento web.
